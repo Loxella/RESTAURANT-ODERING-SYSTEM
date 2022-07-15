@@ -1,6 +1,5 @@
-# restoran-frontend
 
-## Project setup
+## Project frontend setup
 ```
 npm install
 ```
